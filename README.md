@@ -1,4 +1,4 @@
-﻿# ASP.NET Core & Angular 4 (+) advanced starter - with Server-side prerendering (for Angular SEO)!
+Featuring server-side rendering for SEO, ngx-bootstrap, i18n internationalization (ngx-translate), Webpack2, TypeScript2, unit testing, WebAPI Rest demo, SignalR, Swagger docs, and more! 
 
 <p align="center">
     <img src="./docs/architecture.png" alt="ASP.NET Core Angular 2+ Starter" title="ASP.NET Core Angular 2+ Starter">
