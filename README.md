@@ -432,13 +432,4 @@ Nothing's ever perfect, but please let me know by creating an issue (make sure t
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](/LICENSE) 
 
-Copyright (c) 2016-2017 [Mark Pieszak](https://github.com/MarkPieszak)
-
-Twitter: [@MarkPieszak](http://twitter.com/MarkPieszak) | Medium: [@MarkPieszak](https://medium.com/@MarkPieszak)
-
-----
-
-# Looking for Angular Consulting / Training / support?
-
-[Contact me](mpieszak84@gmail.com), and let's talk about your projects needs!
 
